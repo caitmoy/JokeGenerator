@@ -1,0 +1,82 @@
+body {
+	background-color: #FFFAD9;
+}
+
+
+a {
+	text-decoration: none;
+}
+
+#nav ul {
+	height: none;
+}
+
+#container {
+	background-color: #FFEECC;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#content {
+	
+	padding: 10px;
+}
+
+#nav {
+	width: 180px;
+	float: left;
+}
+
+#link1 {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+
+}
+
+#link2 {
+	font-family: "Courier New", monospace;
+}
+
+#link3 {
+	font-family: "Arial Narrow", sans-serif;
+}
+#main {
+	width: 600px;
+	float: right;
+}
+
+#jokeDisplay {
+	text-align: center;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+#button {
+	display: block;
+	margin-left: auto;
+	margin-right:auto;
+	width: 60%;
+	padding: 15px 32px
+	
+}
+
+#buttontext {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+#header {
+	background-color: #FFAA00;
+	color: white;
+	text-align: center;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+
+#footer {
+	clear: both;
+}
+
+
+/*Color Codes!
+ - a pale yellow #FFFAD9 
+ - a nice sunset orange #FFAA00
+ - a pale orange #FFEECC
+ */
+
