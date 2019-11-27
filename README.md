@@ -1,4 +1,4 @@
-# KnockKnockJokeGenerator
+# Knock Knock Joke Generator
 
 Keep clicking the button to hear a random knock-knock joke.
 
